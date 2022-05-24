@@ -130,7 +130,7 @@ void menuGame() {
 				system("CLS");
 				switch(posCursor){
 					case 0:
-						system("PlayerVsPlayer1.exe");
+						system("PlayerVsPlayer.exe");
 					break;
 					case 2:
 						system("PlayingWithBot.exe");
